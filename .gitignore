@@ -1,0 +1,10 @@
+/.idea
+/vendor
+.env
+/.vscode
+/storage/logs/*
+!/storage/logs/.gitignore
+.phpunit.result.cache
+dump.rdb
+/storage/serverState.json
+/storage/routes
